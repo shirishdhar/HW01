@@ -9,6 +9,9 @@
 
 print("Hello World!") # example
 
+5
+x=5
+x+1
 
 
 
@@ -18,9 +21,17 @@ print("Hello World!") # example
 
 ######## enter statements above this line ########
 # What is the output?
-# [copy and past output here]
+# Hello World!
 # 
 # (3) Modify the script by transforming each expression into a print statement 
 # and then run it again.
+print 5
+print'x=5'
+print x+1
+
 # What is the output?
-# [copy and past output here]
+# Hello World!
+# 5
+# x=5
+# 6
+
